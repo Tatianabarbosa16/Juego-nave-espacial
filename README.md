@@ -1,5 +1,6 @@
 # Juego-nave-espacial
-Vamos a explorar un juego simple llamado "Ataque Espacial" desarrollado en Python utilizando la biblioteca Pygame. El juego consiste en controlar una nave espacial y disparar a los enemigos que se mueven por la pantalla. El objetivo es obtener la mayor puntuación posible antes de que los enemigos lleguen a la parte inferior de la pantalla.
+Vamos a explorar un juego simple llamado Ataque Espacial desarrollado en Python utilizando la biblioteca Pygame. El juego consiste en controlar una nave espacial y disparar a los enemigos que se mueven por la pantalla. El objetivo es obtener la mayor puntuación posible antes de que los enemigos lleguen a la parte inferior de la pantalla.
+
 conceptos clave
 Antes de sumergirnos en el código, es importante comprender algunos conceptos clave:
 
@@ -12,7 +13,7 @@ Colisión : La colisión ocurre cuando dos sprites se superponen en la pantalla.
 Estructura del código
 El código proporcionado se divide en varias secciones, cada una con un propósito específico. Veamos cada una de ellas:
 
-Inicialización : En esta sección, se importan las bibliotecas necesarias, se establece el tamaño de la pantalla y se cargan los recursos del juego, como imágenes y sonidos.
+Inicialización :  Se importan las bibliotecas necesarias, se establece el tamaño de la pantalla y se cargan los recursos del juego, como imágenes y sonidos.
 
 Funciones auxiliares : Aquí se definen varias funciones que se utilizarán en el juego. Estas funciones incluyen la función para mostrar la puntuación, dibujar los sprites en la pantalla, disparar balas y detectar colisiones.
 
